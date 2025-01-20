@@ -1,5 +1,14 @@
 # System files
 .DS_Store
+
+# IDE configuration files
+.idea/
+*.iml
+
+# Build and output folders
+out/
+# System files
+.DS_Store
 # IDE configuration files
 .idea/ *.iml
 # Build and output folders
